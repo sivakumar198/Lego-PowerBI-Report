@@ -24,5 +24,4 @@ This repository contains a Power BI report analyzing LEGO datasets, featuring de
    ```bash
    git clone https://github.com/your-username/Lego-PowerBI-Report.git
 
-   ## Overall Report
-   ![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-1.png)
+  
