@@ -24,4 +24,12 @@ This repository contains a Power BI report analyzing LEGO datasets, featuring de
    ```bash
    git clone https://github.com/your-username/Lego-PowerBI-Report.git
 
+
+## Report view
+   ![Report Preview](https://github.com/sivakumar198/Lego-PowerBI-Report/blob/main/resources/Lego1.png)
+
+## Decomposition Tree
+   ![Report Preview](https://github.com/sivakumar198/Lego-PowerBI-Report/blob/main/resources/Lego2.png)
+
+
   
